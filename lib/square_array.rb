@@ -1,16 +1,13 @@
 def square_array(array)
 
-newarray = []
+counter = 0 
 
- 
- 
-return newarray
+while array[counter]
+
+puts array[counter]
+
+counter += 1 
+
+end 
  
 end
-
-  #counter = 0 
-    
-  #while counter <= array.length do 
-    #newarray << (array)**2
-    #counter += 1 
- #end 
