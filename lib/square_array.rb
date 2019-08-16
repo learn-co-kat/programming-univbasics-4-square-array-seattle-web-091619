@@ -9,5 +9,7 @@ puts array[counter]
 counter += 1 
 
 end 
+
+puts array 
  
 end
