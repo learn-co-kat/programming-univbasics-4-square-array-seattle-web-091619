@@ -4,7 +4,7 @@ counter = 0
 
 while array[counter]
 
-puts array[counter]
+puts array**2[counter]
 
 counter += 1 
 
