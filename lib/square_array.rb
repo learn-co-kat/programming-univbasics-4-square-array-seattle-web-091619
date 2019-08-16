@@ -10,6 +10,6 @@ counter += 1
 
 end 
 
-return array 
+return array**2 
  
 end
