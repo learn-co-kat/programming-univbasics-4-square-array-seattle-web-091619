@@ -10,6 +10,6 @@ counter += 1
 
 end 
 
-puts array 
+return array 
  
 end
